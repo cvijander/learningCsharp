@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\bin\Debug\net6.0\exception.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\bin\Debug\net6.0\exception.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\bin\Debug\net6.0\exception.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\bin\Debug\net6.0\exception.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\bin\Debug\net6.0\exception.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\exception.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\exception.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\exception.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\exception.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\exception.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\refint\exception.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\exception.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\exception.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\exception\exception\obj\Debug\net6.0\ref\exception.dll
