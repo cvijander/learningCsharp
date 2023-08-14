@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\bin\Debug\net6.0\whileloops.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\bin\Debug\net6.0\whileloops.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\bin\Debug\net6.0\whileloops.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\bin\Debug\net6.0\whileloops.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\bin\Debug\net6.0\whileloops.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\whileloops.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\whileloops.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\whileloops.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\whileloops.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\whileloops.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\whileloops.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\refint\whileloops.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\whileloops.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\whileloops.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\whileloops\whileloops\obj\Debug\net6.0\ref\whileloops.dll
