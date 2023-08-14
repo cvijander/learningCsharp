@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\bin\Debug\net6.0\Hello World.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\bin\Debug\net6.0\Hello World.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\bin\Debug\net6.0\Hello World.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\bin\Debug\net6.0\Hello World.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\bin\Debug\net6.0\Hello World.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\Hello World.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\Hello World.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\Hello World.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\Hello World.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\Hello World.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\refint\Hello World.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\Hello World.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\Hello World.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Hello World\Hello World\obj\Debug\net6.0\ref\Hello World.dll

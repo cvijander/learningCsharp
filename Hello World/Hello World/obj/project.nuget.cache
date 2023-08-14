@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyBu8oT84xahNL1C6SYALT8LsmmCh7VdkaqspfINCzhvTZLyhxMngGe0x+14n86W7oz/Tcg9FFzRAYpesw/c1g==",
+  "success": true,
+  "projectFilePath": "K:\\Linked learning presao sam\\C #\\Learning C#\\workingFiles\\Hello World\\Hello World\\Hello World.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
