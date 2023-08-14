@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net6.0\VariablesAndDataTypes.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net6.0\VariablesAndDataTypes.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net6.0\VariablesAndDataTypes.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net6.0\VariablesAndDataTypes.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net6.0\VariablesAndDataTypes.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\VariablesAndDataTypes.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\VariablesAndDataTypes.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\VariablesAndDataTypes.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\VariablesAndDataTypes.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\refint\VariablesAndDataTypes.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\VariablesAndDataTypes.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\VariablesAndDataTypes.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net6.0\ref\VariablesAndDataTypes.dll
