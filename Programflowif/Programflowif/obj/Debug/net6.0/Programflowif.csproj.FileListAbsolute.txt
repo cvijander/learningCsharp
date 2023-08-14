@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\bin\Debug\net6.0\Programflowif.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\bin\Debug\net6.0\Programflowif.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\bin\Debug\net6.0\Programflowif.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\bin\Debug\net6.0\Programflowif.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\bin\Debug\net6.0\Programflowif.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\Programflowif.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\Programflowif.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\Programflowif.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\Programflowif.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\Programflowif.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\Programflowif.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\refint\Programflowif.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\Programflowif.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\Programflowif.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\Programflowif\Programflowif\obj\Debug\net6.0\ref\Programflowif.dll
