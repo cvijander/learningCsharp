@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\bin\Debug\net6.0\switch.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\bin\Debug\net6.0\switch.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\bin\Debug\net6.0\switch.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\bin\Debug\net6.0\switch.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\bin\Debug\net6.0\switch.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\switch.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\switch.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\switch.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\switch.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\switch.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\refint\switch.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\switch.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\switch.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\switch\switch\obj\Debug\net6.0\ref\switch.dll
