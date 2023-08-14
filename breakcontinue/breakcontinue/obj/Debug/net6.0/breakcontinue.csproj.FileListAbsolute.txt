@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\bin\Debug\net6.0\breakcontinue.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\bin\Debug\net6.0\breakcontinue.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\bin\Debug\net6.0\breakcontinue.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\bin\Debug\net6.0\breakcontinue.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\bin\Debug\net6.0\breakcontinue.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\breakcontinue.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\breakcontinue.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\breakcontinue.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\breakcontinue.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\breakcontinue.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\breakcontinue.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\refint\breakcontinue.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\breakcontinue.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\breakcontinue.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\breakcontinue\breakcontinue\obj\Debug\net6.0\ref\breakcontinue.dll
