@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\refint\stringinterpolation.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringinterpolation\stringinterpolation\obj\Debug\net6.0\ref\stringinterpolation.dll
