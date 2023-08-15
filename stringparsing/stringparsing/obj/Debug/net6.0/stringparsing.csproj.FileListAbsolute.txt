@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\bin\Debug\net6.0\stringparsing.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\bin\Debug\net6.0\stringparsing.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\bin\Debug\net6.0\stringparsing.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\bin\Debug\net6.0\stringparsing.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\bin\Debug\net6.0\stringparsing.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\stringparsing.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\stringparsing.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\stringparsing.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\stringparsing.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\stringparsing.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\stringparsing.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\refint\stringparsing.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\stringparsing.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\stringparsing.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringparsing\stringparsing\obj\Debug\net6.0\ref\stringparsing.dll
