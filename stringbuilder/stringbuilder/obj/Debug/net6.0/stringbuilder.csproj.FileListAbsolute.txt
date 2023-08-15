@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\bin\Debug\net6.0\stringbuilder.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\bin\Debug\net6.0\stringbuilder.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\bin\Debug\net6.0\stringbuilder.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\bin\Debug\net6.0\stringbuilder.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\bin\Debug\net6.0\stringbuilder.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\stringbuilder.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\stringbuilder.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\stringbuilder.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\stringbuilder.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\stringbuilder.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\refint\stringbuilder.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\stringbuilder.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\stringbuilder.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringbuilder\stringbuilder\obj\Debug\net6.0\ref\stringbuilder.dll
