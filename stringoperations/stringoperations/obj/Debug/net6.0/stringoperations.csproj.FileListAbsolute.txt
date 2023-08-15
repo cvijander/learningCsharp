@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\bin\Debug\net6.0\stringoperations.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\bin\Debug\net6.0\stringoperations.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\bin\Debug\net6.0\stringoperations.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\bin\Debug\net6.0\stringoperations.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\bin\Debug\net6.0\stringoperations.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\stringoperations.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\stringoperations.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\stringoperations.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\stringoperations.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\stringoperations.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\stringoperations.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\refint\stringoperations.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\stringoperations.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\stringoperations.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringoperations\stringoperations\obj\Debug\net6.0\ref\stringoperations.dll
