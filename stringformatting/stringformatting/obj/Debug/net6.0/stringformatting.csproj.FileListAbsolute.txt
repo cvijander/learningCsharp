@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\bin\Debug\net6.0\stringformatting.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\bin\Debug\net6.0\stringformatting.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\bin\Debug\net6.0\stringformatting.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\bin\Debug\net6.0\stringformatting.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\bin\Debug\net6.0\stringformatting.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\stringformatting.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\stringformatting.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\stringformatting.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\stringformatting.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\stringformatting.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\stringformatting.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\refint\stringformatting.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\stringformatting.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\stringformatting.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\stringformatting\stringformatting\obj\Debug\net6.0\ref\stringformatting.dll
