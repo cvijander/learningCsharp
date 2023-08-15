@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\bin\Debug\net6.0\functionbasics.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\bin\Debug\net6.0\functionbasics.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\bin\Debug\net6.0\functionbasics.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\bin\Debug\net6.0\functionbasics.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\bin\Debug\net6.0\functionbasics.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\functionbasics.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\functionbasics.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\functionbasics.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\functionbasics.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\functionbasics.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\functionbasics.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\refint\functionbasics.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\functionbasics.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\functionbasics.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionbasics\functionbasics\obj\Debug\net6.0\ref\functionbasics.dll
