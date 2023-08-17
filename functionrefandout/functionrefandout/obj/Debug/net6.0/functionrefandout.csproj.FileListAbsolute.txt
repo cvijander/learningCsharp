@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\bin\Debug\net6.0\functionrefandout.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\bin\Debug\net6.0\functionrefandout.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\bin\Debug\net6.0\functionrefandout.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\bin\Debug\net6.0\functionrefandout.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\bin\Debug\net6.0\functionrefandout.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\functionrefandout.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\functionrefandout.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\functionrefandout.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\functionrefandout.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\functionrefandout.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\functionrefandout.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\refint\functionrefandout.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\functionrefandout.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\functionrefandout.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionrefandout\functionrefandout\obj\Debug\net6.0\ref\functionrefandout.dll
