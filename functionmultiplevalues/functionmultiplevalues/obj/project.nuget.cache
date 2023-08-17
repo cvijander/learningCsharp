@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gASPCKxD1PXR783tAnBA3bEjT/A9sYKvdW3jIrikxFlntQgqQUd+XnbRSdJsGx+3yXsQnzJy5RkfqDm50FGmA==",
+  "success": true,
+  "projectFilePath": "K:\\Linked learning presao sam\\C #\\Learning C#\\workingFiles\\functionmultiplevalues\\functionmultiplevalues\\functionmultiplevalues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\cvija\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

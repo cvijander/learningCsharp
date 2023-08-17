@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\bin\Debug\net6.0\functionmultiplevalues.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\bin\Debug\net6.0\functionmultiplevalues.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\bin\Debug\net6.0\functionmultiplevalues.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\bin\Debug\net6.0\functionmultiplevalues.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\bin\Debug\net6.0\functionmultiplevalues.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\functionmultiplevalues.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\functionmultiplevalues.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\functionmultiplevalues.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\functionmultiplevalues.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\functionmultiplevalues.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\functionmultiplevalues.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\refint\functionmultiplevalues.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\functionmultiplevalues.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\functionmultiplevalues.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\functionmultiplevalues\functionmultiplevalues\obj\Debug\net6.0\ref\functionmultiplevalues.dll
