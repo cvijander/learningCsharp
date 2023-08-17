@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\bin\Debug\net6.0\namedparameters.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\bin\Debug\net6.0\namedparameters.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\bin\Debug\net6.0\namedparameters.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\bin\Debug\net6.0\namedparameters.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\bin\Debug\net6.0\namedparameters.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\namedparameters.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\namedparameters.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\namedparameters.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\namedparameters.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\namedparameters.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\namedparameters.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\refint\namedparameters.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\namedparameters.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\namedparameters.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\namedparameters\namedparameters\obj\Debug\net6.0\ref\namedparameters.dll
