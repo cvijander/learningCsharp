@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\accesmodifies.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\accesmodifies.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\accesmodifies.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\accesmodifies.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\accesmodifies.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\bin\Debug\net6.0\accesmodifies.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\bin\Debug\net6.0\accesmodifies.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\bin\Debug\net6.0\accesmodifies.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\bin\Debug\net6.0\accesmodifies.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\bin\Debug\net6.0\accesmodifies.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\accesmodifies.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\refint\accesmodifies.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\accesmodifies.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\accesmodifies.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\accesmodifies\accesmodifies\obj\Debug\net6.0\ref\accesmodifies.dll
