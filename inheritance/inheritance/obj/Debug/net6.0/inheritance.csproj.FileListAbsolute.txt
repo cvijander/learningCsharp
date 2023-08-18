@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\bin\Debug\net6.0\inheritance.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\bin\Debug\net6.0\inheritance.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\bin\Debug\net6.0\inheritance.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\bin\Debug\net6.0\inheritance.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\inheritance.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\inheritance.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\inheritance\inheritance\obj\Debug\net6.0\ref\inheritance.dll
