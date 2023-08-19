@@ -1,0 +1,15 @@
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\bin\Debug\net6.0\tostring.exe
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\bin\Debug\net6.0\tostring.deps.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\bin\Debug\net6.0\tostring.runtimeconfig.json
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\bin\Debug\net6.0\tostring.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\bin\Debug\net6.0\tostring.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\tostring.csproj.AssemblyReference.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\tostring.GeneratedMSBuildEditorConfig.editorconfig
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\tostring.AssemblyInfoInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\tostring.AssemblyInfo.cs
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\tostring.csproj.CoreCompileInputs.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\tostring.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\refint\tostring.dll
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\tostring.pdb
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\tostring.genruntimeconfig.cache
+K:\Linked learning presao sam\C #\Learning C#\workingFiles\tostring\tostring\obj\Debug\net6.0\ref\tostring.dll
